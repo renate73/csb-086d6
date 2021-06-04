@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://renate73.github.io/csb-086d6/static/css/main.c9b3e390.chunk.css",
+    "main.js": "https://renate73.github.io/csb-086d6/static/js/main.357385c3.chunk.js",
+    "main.js.map": "https://renate73.github.io/csb-086d6/static/js/main.357385c3.chunk.js.map",
+    "runtime-main.js": "https://renate73.github.io/csb-086d6/static/js/runtime-main.ef4b53ba.js",
+    "runtime-main.js.map": "https://renate73.github.io/csb-086d6/static/js/runtime-main.ef4b53ba.js.map",
+    "static/js/2.a61e1f48.chunk.js": "https://renate73.github.io/csb-086d6/static/js/2.a61e1f48.chunk.js",
+    "static/js/2.a61e1f48.chunk.js.map": "https://renate73.github.io/csb-086d6/static/js/2.a61e1f48.chunk.js.map",
+    "index.html": "https://renate73.github.io/csb-086d6/index.html",
+    "static/css/main.c9b3e390.chunk.css.map": "https://renate73.github.io/csb-086d6/static/css/main.c9b3e390.chunk.css.map",
+    "static/js/2.a61e1f48.chunk.js.LICENSE.txt": "https://renate73.github.io/csb-086d6/static/js/2.a61e1f48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef4b53ba.js",
+    "static/js/2.a61e1f48.chunk.js",
+    "static/css/main.c9b3e390.chunk.css",
+    "static/js/main.357385c3.chunk.js"
+  ]
+}

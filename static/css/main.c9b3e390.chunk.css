@@ -1,0 +1,2 @@
+*,:after,:before{box-sizing:border-box}body{margin:0;padding:0;background:#2d2d30;background:linear-gradient(180deg,#0d0d10,#1d1d20,#212125);overflow:hidden;font-weight:200;color:#e0e0e0;font-size:.6rem;-webkit-user-select:none;user-select:none}#root{overflow:hidden}#root,.scrollArea{width:100vw;height:100vh}.scrollArea{position:absolute;top:0;left:0;overflow-x:auto;overflow-y:hidden}
+/*# sourceMappingURL=main.c9b3e390.chunk.css.map */
